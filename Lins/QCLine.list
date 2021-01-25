@@ -3,13 +3,13 @@
 # 白名单
 # PROCESS-NAME,v2ray,DIRECT,no-resolve
 # PROCESS-NAME,ss-local,DIRECT,no-resolve
-# # PROCESS-NAME,privoxy,DIRECT,no-resolve
+# PROCESS-NAME,privoxy,DIRECT,no-resolve
 # PROCESS-NAME,trojan,DIRECT,no-resolve
-# # PROCESS-NAME,trojan-go,DIRECT,no-resolve
+# PROCESS-NAME,trojan-go,DIRECT,no-resolve
 # PROCESS-NAME,naive,DIRECT,no-resolve
 # PROCESS-NAME,Thunder,DIRECT,no-resolve
 # PROCESS-NAME,DownloadService,DIRECT,no-resolve
-# # PROCESS-NAME,qBittorrent,DIRECT,no-resolve
+# PROCESS-NAME,qBittorrent,DIRECT,no-resolve
 # PROCESS-NAME,Transmission,DIRECT,no-resolve
 # PROCESS-NAME,fdm,DIRECT,no-resolve
 # PROCESS-NAME,aria2c,DIRECT,no-resolve
