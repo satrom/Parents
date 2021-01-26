@@ -1,25 +1,5 @@
 # 内容：Private Tracker
 # 数量：129条
-# 白名单
-# PROCESS-NAME,v2ray,DIRECT,no-resolve
-# PROCESS-NAME,ss-local,DIRECT,no-resolve
-# PROCESS-NAME,privoxy,DIRECT,no-resolve
-# PROCESS-NAME,trojan,DIRECT,no-resolve
-# PROCESS-NAME,trojan-go,DIRECT,no-resolve
-# PROCESS-NAME,naive,DIRECT,no-resolve
-# PROCESS-NAME,Thunder,DIRECT,no-resolve
-# PROCESS-NAME,DownloadService,DIRECT,no-resolve
-# PROCESS-NAME,qBittorrent,DIRECT,no-resolve
-# PROCESS-NAME,Transmission,DIRECT,no-resolve
-# PROCESS-NAME,fdm,DIRECT,no-resolve
-# PROCESS-NAME,aria2c,DIRECT,no-resolve
-# PROCESS-NAME,Folx,DIRECT,no-resolve
-# PROCESS-NAME,NetTransport,DIRECT,no-resolve
-# PROCESS-NAME,uTorrent,DIRECT,no-resolve
-# PROCESS-NAME,WebTorrent,DIRECT,no-resolve
-# DOMAIN,clash.razord.top,DIRECT,no-resolve
-# DOMAIN,yacd.haishan.me,DIRECT,no-resolve
-# 站点
 # DOMAIN-SUFFIX,
 DOMAIN-SUFFIX,bgp.technology
 DOMAIN-SUFFIX,bitporn.eu
@@ -43,11 +23,11 @@ DOMAIN,ssl.empirehost.me
 DOMAIN,pt.hdbd.us
 DOMAIN-SUFFIX,upxin.net
 DOMAIN-SUFFIX,sztechand.com
-SRC-PORT,52001,no-resolve
-SRC-PORT,52002,no-resolve
-SRC-PORT,52003,no-resolve
-SRC-PORT,52004,no-resolve
-SRC-PORT,52005,no-resolve
+SRC-PORT,55551,no-resolve
+SRC-PORT,55552,no-resolve
+SRC-PORT,55553,no-resolve
+SRC-PORT,55554,no-resolve
+SRC-PORT,55555,no-resolve
 DOMAIN-KEYWORD,jpopsuki
 DOMAIN-KEYWORD,announce
 DOMAIN-KEYWORD,ipv4
