@@ -23,11 +23,6 @@ DOMAIN,ssl.empirehost.me
 DOMAIN,pt.hdbd.us
 DOMAIN-SUFFIX,upxin.net
 DOMAIN-SUFFIX,sztechand.com
-SRC-PORT,55551,no-resolve
-SRC-PORT,55552,no-resolve
-SRC-PORT,55553,no-resolve
-SRC-PORT,55554,no-resolve
-SRC-PORT,55555,no-resolve
 DOMAIN-KEYWORD,jpopsuki
 DOMAIN-KEYWORD,announce
 DOMAIN-KEYWORD,ipv4
