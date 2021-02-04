@@ -4,6 +4,7 @@ DOMAIN,api.themoviedb.com
 DOMAIN,raw.githubusercontent.com
 DOMAIN,image.themoviedb.com
 DOMAIN,www.themoviedb.com
+DOMAIN,pop.gmail.com
 DOMAIN,services.googleapis.cn
 DOMAIN,dl.google.com
 DOMAIN-SUFFIX,dler.cloud
