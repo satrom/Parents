@@ -1,16 +1,5 @@
 # 直连列表
 
-# MyList
-DOMAIN,v4.ip.zxinc.org
-DOMAIN,v6.ip.zxinc.org
-DOMAIN,mail-177136.yeah.net
-DOMAIN,mail-m9779.mail.163.com
-DOMAIN,mail-m96209.mail.126.com
-DOMAIN-SUFFIX,163.com
-DOMAIN-SUFFIX,126.com
-DOMAIN-SUFFIX,yeah.net
-DOMAIN-SUFFIX,sina.com
-DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,423down.com
 DOMAIN-SUFFIX,bokecc.com
 DOMAIN-SUFFIX,chaipip.com
