@@ -1,5 +1,13 @@
 # 内容：Private Tracker
 # 数量：129条
+
+# 群晖相关
+DOMAIN,checkip.synology.com
+DOMAIN,checkipv6.synology.com
+DOMAIN,checkport.synology.com
+DOMAIN,ddns.synology.com
+DOMAIN,account.synology.com
+
 # DOMAIN-SUFFIX,
 DOMAIN-SUFFIX,bgp.technology
 DOMAIN-SUFFIX,bitporn.eu
