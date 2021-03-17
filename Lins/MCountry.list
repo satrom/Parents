@@ -1,5 +1,4 @@
 DOMAIN-SUFFIX,docker.io
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,tinymediamanager.org
 DOMAIN-SUFFIX,themoviedb.com
 DOMAIN-SUFFIX,themoviedb.org
@@ -10,6 +9,7 @@ DOMAIN,image.themoviedb.com
 DOMAIN,www.themoviedb.com
 DOMAIN,image.themoviedb.org
 DOMAIN,www.themoviedb.org
+DOMAIN-SUFFIX,gmail.com
 DOMAIN,pop.gmail.com
 DOMAIN,services.googleapis.cn
 DOMAIN,dl.google.com
