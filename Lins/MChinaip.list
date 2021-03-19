@@ -1,8 +1,8 @@
 DOMAIN,v4.ip.zxinc.org
 DOMAIN,v6.ip.zxinc.org
-DOMAIN,mail-177136.yeah.net
-DOMAIN,mail-m9779.mail.163.com
-DOMAIN,mail-m96209.mail.126.com
+DOMAIN,pop.yeah.net
+DOMAIN,pop3.126.idns.yeah.net
+DOMAIN,pop3.163.idns.yeah.net
 DOMAIN,smtp.163.com
 DOMAIN,smtp.126.com
 DOMAIN,smtp.yeah.net
