@@ -4,6 +4,11 @@ DOMAIN-SUFFIX,themoviedb.com
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN,api.themoviedb.org
 DOMAIN,api.themoviedb.com
+DOMAIN,private.omdbapi.com
+DOMAIN,image.tmdb.org
+DOMAIN,assets.fanart.tv
+DOMAIN,webservice.fanart.tv
+DOMAIN,api.opensubtitles.org
 DOMAIN,raw.githubusercontent.com
 DOMAIN,image.themoviedb.com
 DOMAIN,www.themoviedb.com
