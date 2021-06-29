@@ -30,4 +30,8 @@ dns:
     - https://149.112.112.112:5053/dns-query
     - https://9.9.9.9:5053/dns-query
     - https://dns.quad9.net:5053/dns-query
+  fallback-filter:
+    geoip: false
+    ipcidr: # 在这个网段内的 IP 地址会被考虑为被污染的 IP
+      - 240.0.0.0/4
 {% endif %}
